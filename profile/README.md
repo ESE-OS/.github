@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You are on the ESE'OS repository.
+You are on the ESE'OS repository. Here you can found all our projects that are developped by members.
 
 ## About us
 
